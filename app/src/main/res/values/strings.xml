@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Train Tracking</string>
+    <string name="add_train">Add Train</string>
+    <string name="train_name">Train Name</string>
+    <string name="train_number">Train Number</string>
+    <string name="from_station">From Station</string>
+    <string name="to_station">To Station</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="status">Status</string>
+    <string name="on_time">On Time</string>
+    <string name="delayed">Delayed</string>
+    <string name="arrived">Arrived</string>
+    <string name="refresh">Refresh</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+</resources>
